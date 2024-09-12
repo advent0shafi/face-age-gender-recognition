@@ -26,12 +26,12 @@ pip install opencv-python
 You will need to download the following pre-trained models for age and gender prediction.
 
 1. **Age Model:**
-   - [deploy_age.prototxt](https://github.com/spmallick/learnopencv/blob/master/AgeGender/AgeGender/deploy_age.prototxt)
-   - [age_net.caffemodel](https://github.com/spmallick/learnopencv/blob/master/AgeGender/AgeGender/age_net.caffemodel)
+   - [deploy_age.prototxt](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
+   - [age_net.caffemodel](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
 
 2. **Gender Model:**
-   - [deploy_gender.prototxt](https://github.com/spmallick/learnopencv/blob/master/AgeGender/AgeGender/deploy_gender.prototxt)
-   - [gender_net.caffemodel](https://github.com/spmallick/learnopencv/blob/master/AgeGender/AgeGender/gender_net.caffemodel)
+   - [deploy_gender.prototxt](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
+   - [gender_net.caffemodel](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
 
 Download these files and place them in the same directory as your Python script.
 
