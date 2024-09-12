@@ -94,4 +94,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This `README.md` provides a clear description of the project, setup instructions, and common troubleshooting tips.
